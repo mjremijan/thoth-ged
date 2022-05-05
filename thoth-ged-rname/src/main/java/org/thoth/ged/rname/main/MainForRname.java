@@ -15,7 +15,7 @@ public class MainForRname {
     public static void main(String[] args) throws Exception {
         
         // EXTRACT
-        Path extractPath = Paths.get("D:\\Desktop\\jgk81.ged");
+        Path extractPath = Paths.get("D:\\Desktop\\a.ged");
         Stream<String> extractData = Files.lines(extractPath);
          
         // TRANSLATE
